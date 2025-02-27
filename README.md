@@ -21,6 +21,9 @@
 ### Redis
 - [RDB](https://github.com/ori0o0p/til/blob/main/til/redis/RDB.md)
 
+### DDD
+- [Strategic과 Tactical Design의 차이](https://github.com/ori0o0p/til/blob/main/til/ddd/Strategic%EA%B3%BC%20Tactical%20Design%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
 ---
 
 ## Interview Question
