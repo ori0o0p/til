@@ -16,6 +16,7 @@
 - 정적 메서드와 인스턴스 메서드의 차이점은 무엇인가요?
 - 오버로딩과 오버라이딩의 차이점은 무엇인가요?
 - String, StringBuilder, StringBuffer 차이점은 무엇인가요?
+- [String은 왜 불변 객체인가요?](java%2FString%EC%9D%80%20%EC%99%9C%20%EB%B6%88%EB%B3%80%20%EA%B0%9D%EC%B2%B4%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
 - [HashMap과 HashTable의 차이는 무엇인가요?](java%2FHashMap%EA%B3%BC%20HashTable%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
 - [JVM의 메모리 구조에 대해서 설명해주세요](java%2FJVM%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 
