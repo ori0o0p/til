@@ -33,7 +33,72 @@
 - RESTful API 설계 원칙과 이를 Spring Boot에서 구현하는 방법에 대해 설명해 주세요.
 - Spring Security를 사용하여 인증과 권한 부여를 구현한 경험이 있나요? JWT 토큰 인증 방식의 작동 원리에 대해 설명해 주세요.
 - Spring WebFlux와 Spring MVC의 차이점을 설명하고, 어떤 상황에서 WebFlux를 선택하는 것이 적합한지 말씀해 주세요.
-
+- 스프링에 대한 당신의 이해에 대해 말해주세요.
+- Spring의 AOP에 대해 설명해주세요.
+- IOC와 AOP를 구현하는 데 어떤 메커니즘이 사용됩니까?
+- Spring Ioc를 어떻게 이해하나요?
+- 종속성 역전, 종속성 주입, 제어 역전은 무엇인가요?
+- Spring Ioc를 디자인해 달라는 요청을 받는다면 디자인에서 어떤 측면을 고려할 것인가요?
+- Spring AOP는 주로 어떤 문제를 해결하고 싶어합니까?
+- Spring AOP의 원리를 이해하시나요?
+- 동적 프록시란 무엇인가요?
+- 동적 프록시와 정적 프록시의 차이점은 무엇인가요?
+- AOP 구현을 위한 어떤 주석이 있나요?
+- 리플렉션이란 무엇인가요? 사용 시나리오는 무엇입니까?
+- Spring은 순환 종속성을 어떻게 해결하나요?
+- 스프링의 3차 캐시의 데이터 구조는 무엇입니까?
+- 스프링 프레임워크에서는 어떤 디자인 패턴이 사용되나요?
+- 스프링에서 일반적으로 사용되는 주석은 무엇입니까?
+- 어떤 상황에서 Spring의 트랜잭션이 실패할까요?
+- 이 호출을 사용할 때 Spring의 트랜잭션이 효과적일까요?
+- Bean의 생명주기를 설명해 주시겠습니까?
+- Spring Bean은 싱글톤인가요?
+- 싱글톤과 비싱글톤 빈의 라이프 사이클이 동일합니까?
+- Spring Bean의 범위는 무엇입니까?
+- Spring 컨테이너에는 무엇이 저장되나요?
+- Spring에서 빈 로딩/파괴 전후에 어떤 로직을 구현하고 싶다면 어떻게 해야 할까요?
+- Spring MVC의 처리 흐름을 이해하시나요?
+- Handlermapping과 handleradapter에 대해 알고 계신가요?
+- 왜 Spring Boot를 사용해야 하나요?
+- Spring Boot이 Spring보다 나은 점은 무엇인가요?
+- SpringBoot은 어떤 디자인 패턴을 사용하나요?
+- Spring Boot에서 컨벤션이 구성보다 더 중요하다는 것을 이해하는 방법
+- Spring Boot의 프로젝트 구조는 어떻게 되나요?
+- Spring Boot의 자동 구성 원리는 무엇인가요?
+- Spring Boot의 자동 구성을 비활성화하려면 어떻게 해야 하나요?
+- Spring Boot에서 starter 패키지는 무엇이며, 그것을 직접 개발할 수 있나요?
+- Spring Boot의 주요 시작 클래스에는 무엇이 포함되나요?
+- Spring Boot 애플리케이션에서 설정 파일(application.properties 또는 application.yml)의 역할은 무엇인가요?
+- Spring Boot에서 다중 환경 구성을 관리하는 방법은 무엇인가요?
+- Spring Boot에서 프로필(profile) 기능을 어떻게 활용하나요?
+- Spring Boot에서 내장 서버(Tomcat, Jetty, Undertow)를 사용할 때 설정을 변경하는 방법은?
+- Spring Boot에서 로그(Logback, Log4j)를 어떻게 설정하고 사용하나요?
+- Spring Boot에서 Actuator는 무엇이며, 어떤 모니터링 기능을 제공하나요?
+- Spring Boot에서 비동기(Async) 처리는 어떻게 구현하나요?
+- Spring Boot에서 배치 처리(Spring Batch)를 어떻게 구성하나요?
+- Spring Boot에서 Redis를 통합하는 방법은 무엇인가요?
+- Spring Boot에서 RabbitMQ 또는 Kafka를 사용하는 방법은 무엇인가요?
+- Spring Boot에서 REST API를 개발할 때 고려해야 할 사항은?
+- Spring Boot에서 CORS 설정을 어떻게 처리하나요?
+- Spring Boot에서 보안(Security)을 강화하는 방법은 무엇인가요?
+- Spring Boot에서 OAuth2를 활용한 인증 및 인가 구현 방법은?
+- Spring Boot에서 데이터베이스 연결 및 JPA 설정 방법은?
+- Spring Boot에서 다중 데이터베이스를 사용할 수 있나요? 어떻게 설정하나요?
+- Spring Boot에서 트랜잭션 관리는 어떻게 하나요?
+- Spring Boot에서 테스트(JUnit, MockMvc)를 어떻게 수행하나요?
+- Spring Boot 애플리케이션을 Docker로 컨테이너화하는 방법은?
+- Spring Boot 애플리케이션을 Kubernetes에 배포하는 방법은?
+- Spring Boot에서 GraphQL을 활용할 수 있나요?
+- Spring Boot 애플리케이션에서 성능을 최적화하는 방법은?
+- Spring Boot 애플리케이션에서 캐싱을 활용하는 방법은?
+- Spring Boot 애플리케이션에서 스케줄링 작업을 어떻게 설정하나요?
+- Spring Boot에서 마이크로서비스 아키텍처를 구현하는 방법은?
+- Spring Boot에서 API Gateway(Eureka, Zuul, Spring Cloud Gateway)를 설정하는 방법은?
+- Spring Boot에서 분산 트랜잭션을 관리하는 방법은?
+- Spring Boot에서 서킷 브레이커 패턴을 적용하는 방법은?
+- Spring Boot에서 서비스 메시(Service Mesh)를 활용할 수 있나요?
+- Spring Boot와 GraalVM을 사용하여 네이티브 이미지를 생성하는 방법은?
+- Spring Boot 애플리케이션에서 DevOps 및 CI/CD 파이프라인을 설정하는 방법은?
 
 ### MySQL
 - 관계형 데이터베이스란 무엇인가요?
