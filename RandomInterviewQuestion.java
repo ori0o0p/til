@@ -54,7 +54,7 @@ class RandomInterviewQuestion {
     }
 
     private static void execute() {
-        final String randomFileAddress = getRandomMdFile(directories);
+        final String randomFileAddress = getRandomMdFile();
 
         if (randomFileAddress != null) {
             //  ./interview/  제거
@@ -66,7 +66,7 @@ class RandomInterviewQuestion {
         }
     }
 
-    private static String getRandomMdFile(final String[] directories) {
+    private static String getRandomMdFile() {
         final List<String> mdFiles = new ArrayList<>();
 
         for (String dir : directories) {
