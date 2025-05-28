@@ -26,6 +26,7 @@
 - [Redis의 RDB와 AOF 지속성 전략 비교](https://github.com/ori0o0p/til/blob/main/til/redis/Redis%EC%9D%98%20RDB%EC%99%80%20AOF%20%EC%A7%80%EC%86%8D%EC%84%B1%20%EC%A0%84%EB%9E%B5%20%EB%B9%84%EA%B5%90.md)
 
 ### DDD
+- [DDD란?](til/ddd/DDD%EB%9E%80%3F.md)
 - [Strategic과 Tactical Design의 차이](https://github.com/ori0o0p/til/blob/main/til/ddd/Strategic%EA%B3%BC%20Tactical%20Design%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 ---
