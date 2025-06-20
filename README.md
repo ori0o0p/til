@@ -9,6 +9,15 @@
 ### Java
 - [Try-Catch 구문에 의한 성능 영향](https://github.com/ori0o0p/til/blob/main/til/java/Try-Catch%20%EA%B5%AC%EB%AC%B8%EC%97%90%20%EC%9D%98%ED%95%9C%20%EC%84%B1%EB%8A%A5%20%EC%98%81%ED%96%A5.md)
 
+### JVM
+- [Heap (HotSpot VM, Generational GC)](til/jvm/Heap%20%28HotSpot%20VM%2C%20Generational%20GC%29.md)
+- [HotSpot VM Generational GC가  Heap Area를 Young Generation,  Old Generation으로 나누는 이유](til/jvm/HotSpot%20VM%20Generational%20GC%EA%B0%80%20%20Heap%20Area%EB%A5%BC%20Young%20Generation%2C%20%20Old%20Generation%EC%9C%BC%EB%A1%9C%20%EB%82%98%EB%88%84%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [Non-Generational ZGC가 힙을 Young, Old Generation으로 명확히 나누지 않는 이유](til/jvm/Non-Generational%20ZGC%EA%B0%80%20%ED%9E%99%EC%9D%84%20Young%2C%20Old%20Generation%EC%9C%BC%EB%A1%9C%20%EB%AA%85%ED%99%95%ED%9E%88%20%EB%82%98%EB%88%84%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [Generational ZGC가 힙을 Young, Old Generation으로 나눈 이유](til/jvm/Generational%20ZGC%EA%B0%80%20%ED%9E%99%EC%9D%84%20Young%2C%20Old%20Generation%EC%9C%BC%EB%A1%9C%20%EB%82%98%EB%88%88%20%EC%9D%B4%EC%9C%A0.md)
+- [Minor GC는 Young Generation만 검사하는 걸까?](til/jvm/Minor%20GC%EB%8A%94%20Young%20Generation%EB%A7%8C%20%EA%B2%80%EC%82%AC%ED%95%98%EB%8A%94%20%EA%B1%B8%EA%B9%8C%3F.md)
+- [Heap은 모든 스레드가 접근 가능한데, Eden 영역 객체 할당에 대한 동시성 제어 수준?](til/jvm/Heap%EC%9D%80%20%EB%AA%A8%EB%93%A0%20%EC%8A%A4%EB%A0%88%EB%93%9C%EA%B0%80%20%EC%A0%91%EA%B7%BC%20%EA%B0%80%EB%8A%A5%ED%95%9C%EB%8D%B0%2C%20Eden%20%EC%98%81%EC%97%AD%20%EA%B0%9D%EC%B2%B4%20%ED%95%A0%EB%8B%B9%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4%20%EC%88%98%EC%A4%80%3F.md)
+- [Old Generation는 자바 프로그램을 처음 실행하면 무조건 비어있을까?](til/jvm/Old%20Generation%EB%8A%94%20%EC%9E%90%EB%B0%94%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%B2%98%EC%9D%8C%20%EC%8B%A4%ED%96%89%ED%95%98%EB%A9%B4%20%EB%AC%B4%EC%A1%B0%EA%B1%B4%20%EB%B9%84%EC%96%B4%EC%9E%88%EC%9D%84%EA%B9%8C%3F.md)
+
 ### OOP
 - [OOP](https://github.com/ori0o0p/til/blob/main/til/oop/OOP.md)
 - [상속](https://github.com/ori0o0p/til/blob/main/til/oop/%EC%83%81%EC%86%8D.md)
@@ -28,6 +37,11 @@
 ### DDD
 - [DDD란?](til/ddd/DDD%EB%9E%80%3F.md)
 - [Strategic과 Tactical Design의 차이](https://github.com/ori0o0p/til/blob/main/til/ddd/Strategic%EA%B3%BC%20Tactical%20Design%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
+### Test
+- [Unit Test](til/test/Unit%20Test.md)
+- [좋은 테스트 코드](til/test/%EC%A2%8B%EC%9D%80%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C.md)
+- [테스트의 필요성](til/test/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%ED%95%84%EC%9A%94%EC%84%B1.md)
 
 ---
 
